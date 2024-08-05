@@ -1,6 +1,0 @@
-# config-repo/product-service-instance2.yml
-server:
-  port: 8082
-spring:
-  profiles:
-    active: instance2
