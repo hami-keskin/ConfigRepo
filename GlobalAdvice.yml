@@ -1,8 +1,6 @@
 spring:
   application:
     name: GlobalAdvice
-  config:
-    import: "ConfigServer:http://localhost:8888"
 
 eureka:
   client:
